@@ -1,0 +1,11 @@
+{
+    "users": [
+        {
+            "first_name": "Mary",
+            "last_name": "Jane",
+            "email": "maryjane@live.mdx.ac.uk",
+            "password": "123#dogy",
+            "occupation": "student"
+        }
+      ]
+}
